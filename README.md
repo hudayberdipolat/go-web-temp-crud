@@ -1,16 +1,5 @@
 # Golang with web Template used full CRUD Project
 
-Used Tools:
-1. Router -->>( github.com/julienschmidt/httprouter )
-2. Database -> Mysql (GORM)
-3. Git
-4. Html and css
-5. Bootstrap 5
-6. font awesame
-7. session -->> ( github.com/gorilla/sessions ) 
-8. Slug -->> ( github.com/gosimple/slug )
-9. File upload
-
 Project Images :
 
 1. List all posts
